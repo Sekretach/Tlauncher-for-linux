@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Тлаунчер на Арч линукс
-[![stars](https://img.shields.io/github/stars/mttomaz/tlauncher-arch?color=7E9CD8&style=for-the-badge)](https://github.com/Sekretach/Tlauncher-on-arch-ru/stargazers)
+[![stars](https://img.shields.io/github/stars/Sekretach/tlauncher-on-arch-ru?color=7E9CD8&style=for-the-badge)](https://github.com/Sekretach/Tlauncher-on-arch-ru/stargazers)
 [![issues](https://img.shields.io/github/issues/mttomaz/tlauncher-arch?color=FF5D62&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch/issues)
 [![size](https://img.shields.io/github/repo-size/mttomaz/tlauncher-arch?color=76946A&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch)
 [![license](https://img.shields.io/github/license/mttomaz/tlauncher-arch?color=957FB8&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch/blob/master/LICENSE)
