@@ -8,7 +8,7 @@
 
 </div>
 
-Это репозиторий, который я создал для установки TLauncher на Arch Linux напрямую с их сайта. [site](https://tlauncher.org/).
+Это репозиторий, который я перевел: [оригинальный репозиторий](https://github.com/mttomaz/tlauncher-arch/) для установки TLauncher на Arch Linux напрямую с их сайта. [site](https://tlauncher.org/).
 
 > [!warning]
 > Этот скрипт — всего лишь инструмент для облегчения загрузки TLauncher.
