@@ -2,9 +2,9 @@
 
 ## Тлаунчер на Арч линукс
 [![stars](https://img.shields.io/github/stars/Sekretach/tlauncher-on-arch-ru?color=7E9CD8&style=for-the-badge)](https://github.com/Sekretach/Tlauncher-on-arch-ru/stargazers)
-[![issues](https://img.shields.io/github/issues/mttomaz/tlauncher-arch?color=FF5D62&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch/issues)
-[![size](https://img.shields.io/github/repo-size/mttomaz/tlauncher-arch?color=76946A&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch)
-[![license](https://img.shields.io/github/license/mttomaz/tlauncher-arch?color=957FB8&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch/blob/master/LICENSE)
+[![issues](https://img.shields.io/github/issues/Sekretach/tlauncher-on-arch-ru?color=FF5D62&style=for-the-badge)](https://github.com/Sekretach/tlauncher-on-arch-ru/issues)
+[![size](https://img.shields.io/github/repo-size/Sekretach/tlauncher-on-arch-ru?color=76946A&style=for-the-badge)](https://github.com/Sekretach/tlauncher-on-arch-ru)
+[![license](https://img.shields.io/github/license/Sekretach/tlauncher-on-arch-ru?color=957FB8&style=for-the-badge)](https://github.com/Sekretach/Tlauncher-on-arch-ru/blob/main/LICENSE)
 
 </div>
 
