@@ -1,6 +1,6 @@
 <div align="center">
 
-# tlauncher-on-arch
+## Тлаунчер на Арч линукс
 [![stars](https://img.shields.io/github/stars/mttomaz/tlauncher-arch?color=7E9CD8&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch/stargazers)
 [![issues](https://img.shields.io/github/issues/mttomaz/tlauncher-arch?color=FF5D62&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch/issues)
 [![size](https://img.shields.io/github/repo-size/mttomaz/tlauncher-arch?color=76946A&style=for-the-badge)](https://github.com/mttomaz/tlauncher-arch)
