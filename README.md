@@ -13,7 +13,7 @@
 > [!warning]
 > Этот скрипт — всего лишь инструмент для облегчения загрузки TLauncher.
 > Использование TLauncher осуществляется исключительно на ваш страх и риск. Я не несу ответственности
-> за любые проблемы, которые могут возникнуть при использовании TLauncher [this](https://github.com/MatheusTT/tlauncher-arch/issues/1) issue.
+> за любые проблемы, которые могут возникнуть при использовании TLauncher [this](https://github.com/Sekretach/Tlauncher-for-linux/issues/1#issue-3206354638) issue.
 
 ## Установка
 Введите эту команду в терминал чтоб установить TLauncher:
